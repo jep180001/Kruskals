@@ -1,4 +1,4 @@
 # Kruskals
 
 ## Overview:
-- The project calulates Kruskal's algoritm on a passed data set.
+- The project calculates Kruskal's algorithm on a passed data set.
